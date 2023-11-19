@@ -73,7 +73,7 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #547fbc;
+  --bs-link-color: rgb(71, 148, 255);
   --bs-link-hover-color: #35517a;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
@@ -10986,4 +10986,5 @@ section.resume-section .resume-section-content {
 
 .supervisor {
   text-decoration: none;
+  color: #2f5c9c;
 }
